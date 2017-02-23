@@ -15,6 +15,7 @@ int main()
 			count++;
 	}
 	cout<<"\nThe Longest increasing subsequence is  :: "<<count<<endl;
+	cout<<"---------------------------------------------\n";
 	return 0;
 	}
 			
