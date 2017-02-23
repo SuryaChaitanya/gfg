@@ -30,6 +30,6 @@ int main()
 	int n=strlen(y);
 	
 	cout<<"\nthe length of the longest common subsequence is :: ";
-	cout<<lcs(x,y,m,n)<<endl;
+	cout<<lcs(x,y,m,n);
 	return 0;
 }
